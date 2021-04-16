@@ -1,5 +1,8 @@
-<h1> My Vs Code Extensions </h1>
+# My VS Code Extensions
 
-<ul>
-  <li>Testing</li>
-</ul>
+[Laravel](https://github.com/PixelDevelop/My-VS-Code-Extensions/#laravel)
+
+<h2 id="laravel"> Laravel Extensions <h2>
+
+- A
+- B
